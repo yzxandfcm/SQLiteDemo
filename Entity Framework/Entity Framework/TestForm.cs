@@ -27,19 +27,21 @@ namespace Entity_Framework
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MyContext context = new MyContext();
-            var empList = context.Persons.OrderBy(c => c.FirstName).ToList();
-            Console.WriteLine(empList.Count);
+            //PersonContext context = new PersonContext();
+            //var empList = context.Persons.OrderBy(c => c.FirstName).ToList();
+            //Console.WriteLine(empList.Count);
 
-            Person people = new Person()
-            {
-                Id = 123456,
-                FirstName = "Hello",
-                LastName = "World"
-            };
-            context.Persons.Add(people);
-            context.SaveChanges();
-            Console.ReadLine();
+            //Person people = new Person()
+            //{
+            //    Id = 123456,
+            //    FirstName = "Hello",
+            //    LastName = "World"
+            //};
+            //context.Persons.Add(people);
+            //context.SaveChanges();
+            //Console.ReadLine();
+
+            var persons = PersonManager.GetAllItems();
         }
     }
 }

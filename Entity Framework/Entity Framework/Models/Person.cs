@@ -14,11 +14,11 @@ namespace Entity_Framework
         public string LastName { get; set; }
     }
 
-    public class MyContext : DbContext
+    public class PersonContext : DbContext
     {
         public DbSet<Person> Persons { get; set; }
 
-        public MyContext()
+        public PersonContext()
             : base("SqliteTest")
         {
 
