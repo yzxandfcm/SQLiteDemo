@@ -1,0 +1,34 @@
+D:\2. 开发程序\1. 量子计划\DEMO\Entity Framework\Entity Framework\bin\Debug\Entity Framework.exe.config
+D:\2. 开发程序\1. 量子计划\DEMO\Entity Framework\Entity Framework\bin\Debug\Entity Framework.exe
+D:\2. 开发程序\1. 量子计划\DEMO\Entity Framework\Entity Framework\bin\Debug\Entity Framework.pdb
+D:\2. 开发程序\1. 量子计划\DEMO\Entity Framework\Entity Framework\bin\Debug\EntityFramework.dll
+D:\2. 开发程序\1. 量子计划\DEMO\Entity Framework\Entity Framework\bin\Debug\EntityFramework.SqlServer.dll
+D:\2. 开发程序\1. 量子计划\DEMO\Entity Framework\Entity Framework\bin\Debug\EntityFramework.xml
+D:\2. 开发程序\1. 量子计划\DEMO\Entity Framework\Entity Framework\bin\Debug\EntityFramework.SqlServer.xml
+D:\2. 开发程序\1. 量子计划\DEMO\Entity Framework\Entity Framework\obj\Debug\Entity_Framework.Properties.Resources.resources
+D:\2. 开发程序\1. 量子计划\DEMO\Entity Framework\Entity Framework\obj\Debug\Entity_Framework.TestForm.resources
+D:\2. 开发程序\1. 量子计划\DEMO\Entity Framework\Entity Framework\obj\Debug\Entity Framework.csproj.GenerateResource.Cache
+D:\2. 开发程序\1. 量子计划\DEMO\Entity Framework\Entity Framework\obj\Debug\Entity Framework.exe
+D:\2. 开发程序\1. 量子计划\DEMO\Entity Framework\Entity Framework\obj\Debug\Entity Framework.pdb
+D:\2. 开发程序\1. 量子计划\DEMO\Entity Framework\Entity Framework\obj\Debug\Entity Framework.csprojResolveAssemblyReference.cache
+D:\2. 开发程序\1. 量子计划\DEMO\Entity Framework\Entity Framework\bin\Debug\System.Data.SQLite.EF6.dll
+D:\2. 开发程序\1. 量子计划\DEMO\Entity Framework\Entity Framework\bin\Debug\System.Data.SQLite.dll
+D:\2. 开发程序\1. 量子计划\DEMO\Entity Framework\Entity Framework\bin\Debug\System.Data.SQLite.Linq.dll
+D:\2. 开发程序\1. 量子计划\DEMO\Entity Framework\Entity Framework\bin\Debug\System.Data.SQLite.xml
+D:\2. 开发程序\1. 量子计划\DEMO\SQLiteDemo\Entity Framework\Entity Framework\bin\Debug\Entity Framework.exe.config
+D:\2. 开发程序\1. 量子计划\DEMO\SQLiteDemo\Entity Framework\Entity Framework\obj\Debug\Entity Framework.exe
+D:\2. 开发程序\1. 量子计划\DEMO\SQLiteDemo\Entity Framework\Entity Framework\obj\Debug\Entity Framework.pdb
+D:\2. 开发程序\1. 量子计划\DEMO\SQLiteDemo\Entity Framework\Entity Framework\bin\Debug\Entity Framework.exe
+D:\2. 开发程序\1. 量子计划\DEMO\SQLiteDemo\Entity Framework\Entity Framework\bin\Debug\Entity Framework.pdb
+D:\2. 开发程序\1. 量子计划\DEMO\SQLiteDemo\Entity Framework\Entity Framework\bin\Debug\EntityFramework.dll
+D:\2. 开发程序\1. 量子计划\DEMO\SQLiteDemo\Entity Framework\Entity Framework\bin\Debug\EntityFramework.SqlServer.dll
+D:\2. 开发程序\1. 量子计划\DEMO\SQLiteDemo\Entity Framework\Entity Framework\bin\Debug\System.Data.SQLite.dll
+D:\2. 开发程序\1. 量子计划\DEMO\SQLiteDemo\Entity Framework\Entity Framework\bin\Debug\System.Data.SQLite.EF6.dll
+D:\2. 开发程序\1. 量子计划\DEMO\SQLiteDemo\Entity Framework\Entity Framework\bin\Debug\System.Data.SQLite.Linq.dll
+D:\2. 开发程序\1. 量子计划\DEMO\SQLiteDemo\Entity Framework\Entity Framework\bin\Debug\EntityFramework.xml
+D:\2. 开发程序\1. 量子计划\DEMO\SQLiteDemo\Entity Framework\Entity Framework\bin\Debug\EntityFramework.SqlServer.xml
+D:\2. 开发程序\1. 量子计划\DEMO\SQLiteDemo\Entity Framework\Entity Framework\bin\Debug\System.Data.SQLite.xml
+D:\2. 开发程序\1. 量子计划\DEMO\SQLiteDemo\Entity Framework\Entity Framework\obj\Debug\Entity Framework.csprojResolveAssemblyReference.cache
+D:\2. 开发程序\1. 量子计划\DEMO\SQLiteDemo\Entity Framework\Entity Framework\obj\Debug\Entity_Framework.Properties.Resources.resources
+D:\2. 开发程序\1. 量子计划\DEMO\SQLiteDemo\Entity Framework\Entity Framework\obj\Debug\Entity_Framework.TestForm.resources
+D:\2. 开发程序\1. 量子计划\DEMO\SQLiteDemo\Entity Framework\Entity Framework\obj\Debug\Entity Framework.csproj.GenerateResource.Cache
