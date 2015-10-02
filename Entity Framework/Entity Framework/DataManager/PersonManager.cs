@@ -11,7 +11,7 @@ namespace Entity_Framework
     {
         public static Person GetItemById(int id)
         {
-            using (PersonContext context = new PersonContext())
+            using (PitmanContext context = new PitmanContext())
             {
                 return context.Persons.FirstOrDefault(o => o.Id == id);
             }
@@ -19,7 +19,7 @@ namespace Entity_Framework
 
         public static List<Person> GetAllItems()
         {
-            using (PersonContext context = new PersonContext())
+            using (PitmanContext context = new PitmanContext())
             {
                 return context.Persons.OrderByDescending(o => o.Id).ToList();
             }
@@ -27,7 +27,7 @@ namespace Entity_Framework
 
         public static bool AddOrUpdate(Person model)
         {
-            using (PersonContext context = new PersonContext())
+            using (PitmanContext context = new PitmanContext())
             {
                 if (model.Id > 0)
                 {
@@ -45,7 +45,7 @@ namespace Entity_Framework
 
         public static bool DeleteItem(int id)
         {
-            using (PersonContext context = new PersonContext())
+            using (PitmanContext context = new PitmanContext())
             {
                 Person entity = context.Persons.FirstOrDefault(o => o.Id == id);
                 if (entity != null)
