@@ -21,7 +21,7 @@ namespace Entity_Framework
 
         private void buttonCreateDb_Click(object sender, EventArgs e)
         {
-            
+
         }
 
 
@@ -33,7 +33,7 @@ namespace Entity_Framework
 
             Person people = new Person()
             {
-                Id = 1,
+                Id = 123456,
                 FirstName = "Hello",
                 LastName = "World"
             };
